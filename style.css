@@ -1,0 +1,246 @@
+body{
+				 background-image:url("images/background_final.png");
+				 background-attachment:fixed;
+				 font-family:Blender Pro;
+				 letter-spacing:-1px;
+				}
+			
+h1 {
+	width:1050px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:30px;
+	padding-bottom:30px;
+	color:rgba(31, 255, 255);
+	border-bottom:solid 4px rgba(31, 255, 255);
+	text-align:center;
+	font-size:2.3em;
+	font-weight:500
+}
+h2 {
+	text-transform: uppercase;
+	font-weight:100;
+	color:rgba(31, 255, 255);
+	margin:30px;
+	padding-left:50px;
+}		
+p {
+	text-align:center;
+}
+a.footer{
+	text-align:center;
+	color:rgba(235, 79, 73);
+	margin-left:100px;
+	margin-right:auto;
+}
+q {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#all {
+				  display:flex;
+				  
+				 }
+			 .list {
+					color:white;
+					width:230px;
+					height: 670x;
+					background-color:rgba(15, 12, 21, 0.95);
+					position: fixed;
+					left: 30px;
+					top: 150px;
+				   }
+			.link_in_page {
+						   text-decoration:none;
+						   color:white;
+						  }
+			.link_in_page:hover {
+								 text-decoration:underline;
+								 color:rgba(31, 255, 255);
+								}
+			.link_in_page:active {
+								  text-decoration:underline;
+								  color:rgba(235, 79, 73);
+								 }
+			.wrapper {
+					  margin-left:auto;
+					  margin-right:190px;
+					  margin-top:20%;
+					  width:1200px;
+					  background-color:rgba(15, 12, 21, 0.95);
+					  color:rgba(235, 79, 73);
+					  font-size:1.7em;
+					 }
+			div.header {
+					    width:1100px;
+						margin-left:auto;
+						margin-right:auto;
+					   }
+			#wall {
+				   display:block;
+				   width:1024px;
+				   hight:610px;
+				   margin-left:auto;
+				   margin-right:auto;
+				  }
+			#text_under_wall {
+							  display:block;
+							  width:1000px;
+							  margin-left:30px;
+							  margin-right:30px;
+							  border:solid 1px rgba(235, 79, 73, 0.3);
+							  background-color:rgb(15, 12, 21);
+							  padding:10px;
+							 }
+			.all_about_weapon {
+							   margin-bottom:15px;
+							   padding-left:30px;
+							   padding-right:30px;
+							  }
+			.name  {
+					 border-top: solid 2px rgba(235, 79, 73);
+					 display:flex;
+					 justify-content:space-around;
+					 flex-wrap:wrap;
+					 margin-bottom:5px;
+					}
+			a.heading {
+					  color:rgba(31, 255, 255); 
+					  font-size:1.7em; 
+					  margin-left:35px; 
+					  margin-right:5px; 
+					  padding-right:0px;
+					  padding-top:40px;
+					  text-transform:uppercase;
+					 }
+			.line {
+				   color:rgba(31, 255, 255); 
+				   margin-top:48px; 
+				   margin-left:5px; 
+				   padding-left:0px;
+				  }
+			.weapon {
+					 display:flex;
+					 justify-content:space-around;
+					 align-items:center;
+					 flex-wrap:wrap;
+					}
+			div.quote {
+					border:solid 1px rgba(235, 79, 73, 0.3);
+					background-color:rgb(15, 12, 21);
+					padding:5px;
+					width:450px;
+					
+				   }
+			.icon_name {
+						display:flex;
+						justify-content:space-around;
+						align-items:center;
+						flex-wrap:wrap;
+					   }
+			div.icon {
+					  border-top:solid 1px rgba(235, 79, 73, 0.3);
+					  margin-left:15px;
+					  margin-right:15px;
+					  margin-top:20px;
+					  padding-top:5px;
+					 }
+			p.icon {
+					
+					text-align:center;
+				   }
+			.weapon_image {
+						   
+						   margin:10px;
+						  }
+			.place_of_the_weapon {
+								  margin-top:15px;
+								  display:flex;
+								  justify-content:space-around;
+								  align-items:center;
+								  flex-wrap:wrap;
+								 }
+			.place_text {
+						 border:solid 1px rgba(235, 79, 73, 0.3);
+						 background-color:rgb(15, 12, 21);
+						 width:475px;
+						 margin-left:auto;
+						 margin-right:15px;
+						 padding:15px;
+						 padding-top:25px;
+						 text-align:center;
+						}
+			.place_images {
+						   width:500px;
+						   hight:650px;
+						   margin-right:auto;
+						   margin-left:15px;
+						  }
+			.place {
+						margin-bottom:10px;
+					   }
+			.place:hover {
+						  border:solid 1px rgba(31, 255, 255);
+						 }
+
+div.conteinor{
+	margin-left:auto;
+	margin-right: auto;
+	width:500px;
+	border:solid 1px rgba(235, 79, 73, 0.3);
+	background-color:rgb(15, 12, 21);
+}
+h2.conteinor{
+	text-align: center;
+	border-bottom-style: solid;
+	margin-top: 13px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+	border-bottom-width: 2px;
+}
+img.conteinor{
+	margin-left: auto;
+	margin-right: auto;
+}
+.image:hover {
+			  border:solid 1px rgba(31, 255, 255);
+			 }
+td {
+	width:550px;
+	height:750px;
+	margin-left:50px;
+	margin-right:50px;
+	padding-left:auto;
+	padding-right:auto;
+}
+tr{
+	margin-bottom:50px;
+}
+table {
+	margin-left:auto;
+	margin-right: auto;
+	
+}
+div.menu{
+	padding-left:20px;
+	margin-top:10px;
+	margin-left:15px;
+	margin-right:15px;
+	border-bottom:2px solid white;
+}
+a.menu {
+		font-size: 1.7em;
+	    text-decoration:none;
+	    color:white;
+	    padding:2px;
+	   }
+a.menu:hover {
+				color:rgba(31, 255, 255);
+			 }
+a.menu:active {
+					  text-decoration:underline;
+					  color:rgba(235, 79, 73);
+					 }
